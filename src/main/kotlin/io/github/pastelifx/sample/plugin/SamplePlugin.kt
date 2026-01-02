@@ -1,4 +1,4 @@
-package io.github.pastelif.sample.plugin
+package io.github.pastelifx.sample.plugin
 
 import org.bukkit.plugin.java.JavaPlugin
 
