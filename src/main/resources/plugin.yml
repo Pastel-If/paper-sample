@@ -1,4 +1,4 @@
 name: MyPlugin
-main: io.github.pastelif.sample.plugin.SamplePlugin
+main: io.github.pastelifx.sample.plugin.SamplePlugin
 version: 1.0.0
 api-version: 1.21
